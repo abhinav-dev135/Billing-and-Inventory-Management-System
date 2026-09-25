@@ -77,7 +77,7 @@ src
 Clone the repository
 
 ```
-git clone https://github.com/yadavabhi1424-del/billing-inventory-system.git
+git clone https://github.com/abhinav-dev135/billing-inventory-system.git
 ```
 
 Install dependencies
